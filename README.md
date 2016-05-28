@@ -1,4 +1,4 @@
-# AttackBots
+# AttackBots ~ 2016 Global Game Jam Entry
 
 I took my 10 year old son to the 2016 Global Game Jam and this is the game we made together.  This game is an example of what can be done using component driven development in Unity and prefabs.  A level designer (in this case my 10 year old) was able to create an entire level himself using all the prefabs and components I built for him.
 
@@ -122,7 +122,7 @@ Purpose:
 
 ## Gam Jam Participants
 
-- Ryan Wortington ~ Level Creation 
+- Ryan Worthington ~ Level Creation 
 - Jon Worthington ~ Programming   
 - Michael Fewkes ~ Game Music 
 
@@ -149,3 +149,4 @@ Purpose:
 - Dev Post: <http://devpost.com/software/attack-bots>
 - GitHub: <https://github.com/worthingtonjg/AttackBots>
 - Play At: <http://www.wetechgroup.com/UnityGames/AttackBots/index.html>
+- KSL News Article <http://www.ksl.com/?nid=1012&sid=39545162>
