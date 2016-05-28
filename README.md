@@ -1,6 +1,8 @@
 # AttackBots
 
-I took my 10 year old son to the 2016 Global Game Jam and this is the game we made together.  Ryan's work was later featured on the KSL news website in an article about kids and programming...
+I took my 10 year old son to the 2016 Global Game Jam and this is the game we made together.  This game is an example of what can be done using component driven development in Unity and prefabs.  A level designer (in this case my 10 year old) was able to create an entire level himself using all the prefabs and components I built for him.
+
+Ryan's work was later featured on the KSL news website in an article about kids and programming...
 
 KSL News Article <http://www.ksl.com/?nid=1012&sid=39545162>
 
