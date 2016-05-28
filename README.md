@@ -136,7 +136,7 @@ Purpose:
 
 ## Links:
 
-- Jam Site: [IGDA Salt Lake City](http://globalgamejam.org/2016/jam-sites/igda-salt-lake-city){:target="_blank"}
-- Dev Post: <http://devpost.com/software/attack-bots>{:target="_blank"}
-- GitHub: <https://github.com/worthingtonjg/AttackBots>{:target="_blank"}
-- Play At: <http://www.wetechgroup.com/UnityGames/AttackBots/index.html>{:target="_blank"}
+- Jam Site: [IGDA Salt Lake City](http://globalgamejam.org/2016/jam-sites/igda-salt-lake-city)
+- Dev Post: <http://devpost.com/software/attack-bots>
+- GitHub: <https://github.com/worthingtonjg/AttackBots>
+- Play At: <http://www.wetechgroup.com/UnityGames/AttackBots/index.html>
