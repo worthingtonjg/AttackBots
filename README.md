@@ -1,6 +1,8 @@
 # AttackBots
 
-I took my 10 year old son to the 2016 Global Game Jam and this is the game we made together.
+I took my 10 year old son to the 2016 Global Game Jam and this is the game we made together.  Ryan's work was later featured on the KSL news website in an article about kids and programming...
+
+KSL News Article <http://www.ksl.com/?nid=1012&sid=39545162>
 
 ## Level Design
 
