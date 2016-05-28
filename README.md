@@ -8,8 +8,8 @@ KSL News Article <http://www.ksl.com/?nid=1012&sid=39545162>
 
 ## Disclaimer
 
-This code was written in 48 hours for a Game Jam / Hackathon.  As such there are some "hacks" and quick fixes that where implemented
-due to time constraints.  Please keep your expectations for code quality low and keep in mind 48 hours is not a lot of time to finish a project.
+This code was written in 48 hours for a Game Jam / Hackathon.  As such there are some "hacks" and quick fixes that were implemented
+due to time constraints.  Please keep your expectations for code quality low and keep in mind 48 hours is not a lot of time to finish a project.  And much of this project was done on very little sleep.
 
 ## Level Design
 
