@@ -6,6 +6,11 @@ Ryan's work was later featured on the KSL news website in an article about kids 
 
 KSL News Article <http://www.ksl.com/?nid=1012&sid=39545162>
 
+## Disclaimer
+
+This code was written in 48 hours for a Game Jam / Hackathon.  As such there are some "hacks" and quick fixes that where implemented
+due to time constraints.  Please keep your expectations for code quality low and keep in mind 48 hours is not a lot of time to finish a project.
+
 ## Level Design
 
 Prior to the game jam I spent some time putting together a library of modular pieces: such as halls, intersections, tees, etc.  I let my 10 year old
