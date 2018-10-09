@@ -20,6 +20,10 @@ I also created all the scripting and prefabs for the enemies and the player.
 
 This allowed Ryan to use the designer during the game jam to create a level using these modular pieces and prefabs  
 
+## WebGL Demo
+
+<http://worthingtonjg.github.io/AttackBots/>
+
 ## Prefabs
 
 - Doors: Blue Door, Green Door, RedDoor, YellowDoor
@@ -148,5 +152,5 @@ Purpose:
 - Jam Site: [IGDA Salt Lake City](http://globalgamejam.org/2016/jam-sites/igda-salt-lake-city)
 - Dev Post: <http://devpost.com/software/attack-bots>
 - GitHub: <https://github.com/worthingtonjg/AttackBots>
-- Play At: <http://www.wetechgroup.com/UnityGames/AttackBots/index.html>
+- Play At: <http://worthingtonjg.github.io/AttackBots/>
 - KSL News Article <http://www.ksl.com/?nid=1012&sid=39545162>
