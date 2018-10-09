@@ -8,13 +8,13 @@ public class locatePlayerAI : MonoBehaviour {
     public Vector3 lastSeenAt;
     public Vector3 originalPosition;
 
-    private NavMeshAgent nav;
+    private UnityEngine.AI.NavMeshAgent nav;
     private bool movingToLastSeen;
 
     
 	// Use this for initialization
 	void Start () {
-        nav = GetComponent<NavMeshAgent>();
+        nav = GetComponent<UnityEngine.AI.NavMeshAgent>();
         originalPosition = new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, gameObject.transform.position.z);
     }
 
